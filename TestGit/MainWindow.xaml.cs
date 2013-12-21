@@ -29,5 +29,10 @@ namespace TestGit
         {
             Console.WriteLine("Button Clicked.");
         }
+
+        private void CheckBox_Checked(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
