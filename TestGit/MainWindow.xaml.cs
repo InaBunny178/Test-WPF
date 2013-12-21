@@ -24,5 +24,10 @@ namespace TestGit
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Console.WriteLine("Button Clicked.");
+        }
     }
 }
