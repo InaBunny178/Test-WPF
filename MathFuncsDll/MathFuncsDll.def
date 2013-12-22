@@ -1,0 +1,7 @@
+LIBRARY MathFuncsDll	
+
+EXPORTS
+	MyCalcAdd @1
+	MyCalcSubtract
+	MyCalcMultiply
+	MyCalcDivide
